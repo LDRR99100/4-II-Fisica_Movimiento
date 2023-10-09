@@ -12,6 +12,16 @@ El cubo se sigue moviendo, esta vez muy lentamente.
 El cubo se mueve hacia la misma direccion pero con un origen distinto, trazando una trayectoria distinta.
 ## e) intercambiar movimiento relativo al sistema de referencia local y el mundial.
 Al menos para los valores asignados no hay cambio en la trayectoria que toma el cubo.
+![Script2ejer3.gif](https://github.com/LDRR99100/4-II-Fisica_Movimiento/blob/cf7fd840597e53c8530bb5e13ad044f587c47e4d/Gifs/Script2ejer3.gif)
+
+# Ejercicios 4 y 5
+![ejer4y5.gif](https://github.com/LDRR99100/4-II-Fisica_Movimiento/blob/cf7fd840597e53c8530bb5e13ad044f587c47e4d/Gifs/ejer4y5.gif)
+
+# Ejercicio 6 y 7
+![scripts6-7.gif](https://github.com/LDRR99100/4-II-Fisica_Movimiento/blob/c9419f1e670b8c0b5ec330cf0a7aa2060da6a97d/Gifs/scripts6-7.gif)
+
+# Ejercicio 9, 10 y 11
+![ejer9-10-11.gif](https://github.com/LDRR99100/4-II-Fisica_Movimiento/blob/c9419f1e670b8c0b5ec330cf0a7aa2060da6a97d/Gifs/ejer9-10-11.gif)
 
 # Ejercicio 12
 ## La masa de la esfera es 10 veces mayor que la del cilindro
@@ -24,3 +34,6 @@ Al menos para los valores asignados no hay cambio en la trayectoria que toma el 
 ![esferatrigger.gif](https://github.com/LDRR99100/4-II-Fisica_Movimiento/blob/2d789c0d0433885ef4cd74286b5cc2c2de41b5ea/Gifs/esferatrigger.gif)
 ## Friccion del cilindro se duplica 
 ![cilindrodoblefriccion.gif](https://github.com/LDRR99100/4-II-Fisica_Movimiento/blob/2d789c0d0433885ef4cd74286b5cc2c2de41b5ea/Gifs/cilindrodoblefriccion.gif)
+
+
+
