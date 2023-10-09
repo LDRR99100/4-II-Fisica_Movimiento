@@ -12,3 +12,12 @@ El cubo se sigue moviendo, esta vez muy lentamente.
 El cubo se mueve hacia la misma direccion pero con un origen distinto, trazando una trayectoria distinta.
 ## e) intercambiar movimiento relativo al sistema de referencia local y el mundial.
 Al menos para los valores asignados no hay cambio en la trayectoria que toma el cubo.
+
+# Ejercicio 12
+## La masa de la esfera es 10 veces mayor que la del cilindro
+
+## La masa de la esfera es 10 veces menor que la del cilindro
+
+## Esfera cinematica
+
+## Esfera Trigger
