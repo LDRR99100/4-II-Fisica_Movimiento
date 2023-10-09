@@ -21,3 +21,5 @@ Al menos para los valores asignados no hay cambio en la trayectoria que toma el 
 ## Esfera cinematica
 
 ## Esfera Trigger
+
+## Friccion se duplica
