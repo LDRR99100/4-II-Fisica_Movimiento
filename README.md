@@ -15,11 +15,12 @@ Al menos para los valores asignados no hay cambio en la trayectoria que toma el 
 
 # Ejercicio 12
 ## La masa de la esfera es 10 veces mayor que la del cilindro
-
+![esferamas.gif](https://github.com/LDRR99100/4-II-Fisica_Movimiento/blob/2d789c0d0433885ef4cd74286b5cc2c2de41b5ea/Gifs/esferamas.gif)
 ## La masa de la esfera es 10 veces menor que la del cilindro
-
+![cilindromas.gif](https://github.com/LDRR99100/4-II-Fisica_Movimiento/blob/2d789c0d0433885ef4cd74286b5cc2c2de41b5ea/Gifs/cilindromas.gif)
 ## Esfera cinematica
-
+![esferacinematica.gif](https://github.com/LDRR99100/4-II-Fisica_Movimiento/blob/2d789c0d0433885ef4cd74286b5cc2c2de41b5ea/Gifs/esferacinematica.gif)
 ## Esfera Trigger
-
-## Friccion se duplica
+![esferatrigger.gif](https://github.com/LDRR99100/4-II-Fisica_Movimiento/blob/2d789c0d0433885ef4cd74286b5cc2c2de41b5ea/Gifs/esferatrigger.gif)
+## Friccion del cilindro se duplica 
+![cilindrodoblefriccion.gif](https://github.com/LDRR99100/4-II-Fisica_Movimiento/blob/2d789c0d0433885ef4cd74286b5cc2c2de41b5ea/Gifs/cilindrodoblefriccion.gif)
